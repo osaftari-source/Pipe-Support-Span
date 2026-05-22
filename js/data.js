@@ -1,4 +1,4 @@
-/* Pipe Support Survey Trial v0.1 — seed data and dimensional basis.
+/* Pipe Support Span Trial v0.1.1 — seed data and dimensional basis.
    PIM-2 class records are intentionally limited to classes verified from the supplied PMC source.
    Steel span reference is based on MSS SP-58 Table 4 preliminary spacing categories. */
 
