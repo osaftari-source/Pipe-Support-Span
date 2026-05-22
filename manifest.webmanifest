@@ -1,7 +1,7 @@
 {
-  "name": "Pipe Support Survey",
-  "short_name": "Support Survey",
-  "description": "Preliminary steel pipe support spacing and estimated vertical load checker for site survey use.",
+  "name": "Pipe Support Span",
+  "short_name": "Support Span",
+  "description": "Preliminary steel pipe support span and estimated vertical load checker for site survey use.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f7f7f2",
