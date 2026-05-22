@@ -171,7 +171,6 @@ function bind() {
   includeHydroEl.addEventListener("change", calculate);
   densityEl.addEventListener("input", calculate);
   insulationEl.addEventListener("input", calculate);
-  $("calculateBtn").addEventListener("click", calculate);
 }
 function init() {
   setupTabs();
