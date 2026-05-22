@@ -1,4 +1,4 @@
-# Pipe Support Survey — Trial v0.1
+# Pipe Support Span — Trial v0.1.1
 
 ## Purpose
 A mobile-first PWA for preliminary site-survey screening of steel pipe support spacing and estimated vertical distributed load at the recommended span.
@@ -9,6 +9,7 @@ A mobile-first PWA for preliminary site-survey screening of steel pipe support s
 - Manual steel input mode.
 - Carbon/alloy steel and stainless steel dimensional weight calculation.
 - Recommended preliminary maximum span.
+- Live calculation: results update automatically when input values change; no calculate button is required.
 - Intermediate and end support estimated vertical reaction.
 - Empty, operating, and optional water-filled/hydrotest load cases.
 - Installable PWA and offline cache after first load.
