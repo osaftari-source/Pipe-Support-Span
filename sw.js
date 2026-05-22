@@ -1,4 +1,4 @@
-const CACHE_NAME = "pipe-support-survey-v0-1";
+const CACHE_NAME = "pipe-support-span-v0-1-1";
 const ASSETS = [
   "./", "./index.html", "./css/app.css", "./js/data.js", "./js/app.js",
   "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"
